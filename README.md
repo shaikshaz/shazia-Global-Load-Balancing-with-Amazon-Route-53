@@ -17,6 +17,6 @@ ns-1382.awsdns-44.org.
 11. create metrics by adding conditions like statics, period, threshold type, value and CPU utilization then then select notification options like alarm trigger, SNS.
 12.Create topic name n mail ID, confirm subscription, and give a name and now create an alarm.
 
-
+![Screenshot (43)](https://github.com/shaikshaz/shazia-Global-Load-Balancing-with-Amazon-Route-53/assets/154241222/cb94ee6f-3a02-4ab4-8071-12f1b917e0c5)
 
 

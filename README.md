@@ -17,3 +17,6 @@ ns-1382.awsdns-44.org.
 11. create metrics by adding conditions like statics, period, threshold type, value and CPU utilization then then select notification options like alarm trigger, SNS.
 12.Create topic name n mail ID, confirm subscription, and give a name and now create an alarm.
 
+
+
+

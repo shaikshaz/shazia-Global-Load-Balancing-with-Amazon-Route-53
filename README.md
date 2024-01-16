@@ -1,4 +1,5 @@
 # shazia-Global-Load-Balancing-with-Amazon-Route-53
+Task :Global server load balancing is also sometimes called global load balancing (GLB).Route 53 is a Domain Name System (DNS) service that performs global server load balancing by routing each request to the AWS region closest to the requester's location.
 1. create an ec-2 instance and create an HTML web server application and run it on the web server and see if it is working or not
 2.create a load balancer Ex: ALB to that ec2 server application, select all the subnets give internet facing.
 4. create a new security group give inbound rules and outbound rules like HTTP.
